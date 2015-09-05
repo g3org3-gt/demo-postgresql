@@ -13,7 +13,5 @@ module.exports = {
   	flag: "boolean",
   	cards: "arrays"
   }
-
-  
 };
 
