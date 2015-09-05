@@ -1,0 +1,10 @@
+{
+  "name": "demo-postgres",
+  "version": "0.0.0",
+  "authors": [
+    "George <jagonzalez@galileo.edu>"
+  ],
+  "moduleType": [
+    "node"
+  ]
+}
